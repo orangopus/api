@@ -1,0 +1,25 @@
+{
+  "name": "streameris",
+  "version": "1.0.0",
+  "description": "Streamer.is is a work-in-progress streamer finder for Mixer and beyond.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Orangopus",
+  "license": "MIT",
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^0.16.0",
+    "@emotion/core": "^10.0.27",
+    "@emotion/primitives": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "airtable": "^0.10.1",
+    "axios": "^0.19.2",
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
